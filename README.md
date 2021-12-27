@@ -1,4 +1,4 @@
-# Kakoi
+![Kakoi Logo](kakoi_logo.png)
 
 Kakoi is an open-source enclosure for the Rainkeebs Yasui 40% ortholinear keyboard. This project was designed to allow for a simple & cheap acrylic case to be fabricated and result in minmal waste.
 
