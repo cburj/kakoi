@@ -2,9 +2,15 @@
 
 Kakoi is an open-source, "drop-in" enclosure for the Rainkeebs Yasui Ortholinear Keyboard. This project was designed to create a simple & cheap acrylic case which results in minmal waste. As this is a "drop-in" case, the actual Keyboard is held in just through gravity - meaning you can very quickly remove the keyboard from the case to swap out parts.
 
+![Kakoi Render](images/render.png)
+
 ## Key Dimensions:
 - yasui: 190x76mm
 - kakoi: 210x96mm
+
+## Versions:
+- "Layered" - Each layer is a single piece of acrylic. This is the sturdiest and simplest version, but does result in more waste.
+- "Split" - Each layer is made up of upto 5 pieces which interlock, allowing you to fit more pieces onto a single piece of material.
 
 ## Fabrication Info:
 ![Kakoi Pieces](images/layout_diagram.png)
@@ -13,11 +19,4 @@ Kakoi is an open-source, "drop-in" enclosure for the Rainkeebs Yasui Ortholinear
 - You only need to cut the bottom plate once.
 - There is no top plate, as this is a drop-in enclosure.
 
-Note: The SVG file provided is merely the "blueprint" for the enclosure, you will need to convert this to a suitable format for the service/hardware responsible for cutting your materials. There is a basic fabrication template for RazorLab - following their specific guidlines.
-
 Enjoy!
-
-
-## Todo List
-- Update the RazorLab template file to include the top-plate pieces.
-- Add screenshots of 3D mockup.
