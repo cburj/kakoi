@@ -19,4 +19,8 @@ Kakoi is an open-source, "drop-in" enclosure for the Rainkeebs Yasui Ortholinear
 - You only need to cut the bottom plate once.
 - There is no top plate, as this is a drop-in enclosure.
 
+## TODO:
+- Update to version 2.0
+- Implement low-profile bottom plate (basically no need for lower pcb plate - mount straight to acrylic plate instead).
+
 Enjoy!
